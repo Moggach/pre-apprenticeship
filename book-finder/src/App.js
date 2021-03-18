@@ -19,18 +19,13 @@ class App extends Component  {
 
   
  }
-
-
-
-
-
   render() {
     return (
   
-    <Layout>
-<div className="searchbar" style={{marginTop: "1rem", padding: "1rem", display: "flex", justifyContent: "center", }}>
-<Search searchBooks={this.searchBooks}/>
-</div>
+<Layout>
+<div>
+<Search searchBooks={this.searchBooks}/></div>
+
 
         <div style={bookStyle}>
         {
@@ -51,8 +46,8 @@ class App extends Component  {
           ))
         }
       </div>
-  
-    </Layout>
+   
+      </Layout>
  
 
     );

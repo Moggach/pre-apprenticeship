@@ -16,15 +16,15 @@ class search extends React.Component {
    
     render(){
         return (
-        <div>
-        <form onSubmit={this.onSubmit} className="form">
-         <input 
+        <div >
+        <form onSubmit={this.onSubmit}  className="search">
+         <input className="searchTerm"
          type="text" 
          name="text" 
          placeholder="Search books..."
          value={this.state.text}
          onChange={this.onChange}
-         style={{width: "75%"}}/>
+         />
          <Button/>
        
          

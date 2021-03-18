@@ -1,28 +1,24 @@
 import Radium from 'radium';
 import React from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faSearch} from '@fortawesome/free-solid-svg-icons'
 
 class Button extends React.Component {
     render() {
       return (
-       
-          <button style={styles}> Search </button>
-      
+         <>
+          <button> 
+          <FontAwesomeIcon className="icons" icon={faSearch} size = '1.8x' color = "white"/> </button>
+          
+        </>
       );
     }
   }
 
 
-  const styles = {
-    
-      backgroundColor: '#8A2BE2',
-    
-
-      padding: "0.5rem",
-      color: "white",
-     ':hover': {backgroundColor: 'white', color:'#8A2BE2',
-     },
+  
   
       
-    };
+  
 
   export default Radium(Button);
