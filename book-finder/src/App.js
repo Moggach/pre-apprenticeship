@@ -4,6 +4,8 @@ import axios from 'axios';
 
 import Layout from './components/Layout/layout.js'
 import Search from './components/Layout/Search.js'
+import Description from './components/Description.js'
+
 
 class App extends Component  {
 
@@ -18,10 +20,13 @@ class App extends Component  {
    this.setState({books: res.data.items})
 
   
- }
+ };
+ 
+
+
   render() {
     return (
-  
+
 <Layout>
 <div>
 <Search searchBooks={this.searchBooks}/></div>
@@ -29,31 +34,39 @@ class App extends Component  {
 
         <div style={bookStyle}>
         {
-          this.state.books.map(({ volumeInfo: {title, description, publishedDate, imageLinks } }) => (
-            <div style={{ boxShadow: "5px 5px 10px", backgroundColor: "#ffffff", padding: "5px"}}>
-              <div style = {{}}>
-              <img style={{width: "50%", display: 'block', margin: "auto"}} src={imageLinks.thumbnail}></img>
-                <h1>{title}</h1>
-                <h2>{publishedDate}</h2>
-           
+          this.state.books.map(({ volumeInfo: { title, description, imageLinks  } }) => (
+            <div style={{ boxShadow: "0px 3px 15px rgba(0,0,0,0.2)", backgroundColor: "#ffffff", borderRadius: "0.5rem", height: "800px", overflow: "hidden"}}>
+            
+              <img style={{width: "50%", display: "block", margin: "auto", marginTop: "1.5rem"}} src={imageLinks.thumbnail}></img>
+              
+          
+                <div className="title">{title}</div>
+              
+          
                 
-    
-                <p>{description}</p>
+                <Description ReadMore = {description}/>
+                <div>
+                <div className="tags-container">
+                <div className="tags">#Lorem Impsum</div>
+                <div className="tags">#Lorem Impsum</div>
+                <div className="tags">#Lorem Impsum</div>
+                </div>
+                </div>
+                </div>
+  
               
-              
-              </div>
-            </div>
+         
+          
           ))
         }
       </div>
-   
+    
       </Layout>
- 
-
     );
-  }
-};
-
+    
+      };
+  
+    };
 const bookStyle = {
   display: 'grid',
   gridTemplateColumns: 'repeat(3, 1fr)',
@@ -61,5 +74,8 @@ const bookStyle = {
  
 
 };
+
+
+
 
 export default App;
