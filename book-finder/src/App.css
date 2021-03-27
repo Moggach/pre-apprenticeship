@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 /* Global Styles */
 
@@ -9,16 +9,27 @@
 }
 
 body {
-  font-family: 'Poppins', sans-serif;
-  font-size: 1rem;
-  line-height: 1.6;
-  background-color:#E9ECEF;
-  color: #333;
+  font-family: "Poppins", sans-serif;
+  background-color: #e9ecef;
 }
 
-.footer {
-  margin-top: 1.5rem;
-  margin-bottom: 0.5rem;
+
+
+.navbar {
+  color: #8a2be2;
+  display: flex;
+  justify-content: center;
+  width: 80%;
+  margin: auto;
+ 
+  padding-top: 1rem;
+}
+
+.logo-text {
+  font-weight: 900;
+  font-size: larger;
+  margin-top: 1.2rem;
+  margin-left: 0.5rem;
 }
 
 .search {
@@ -30,79 +41,87 @@ body {
   display: flex;
 }
 
-
 .searchTerm {
   width: 100%;
-  border: 3px solid #8A2BE2;
+  border: 3px solid #8a2be2;
   border-right: none;
   padding: 5px;
   height: 35px;
   border-radius: 5px 0 0 5px;
   outline: none;
- 
 }
 
-.searchTerm:focus{
-  color: #8A2BE2;
+.searchTerm:focus {
+  color: #8a2be2;
 }
 
 Button {
-  background: #8A2BE2;
+  background: #8a2be2;
   padding-left: 1rem;
   padding-right: 1rem;
   cursor: pointer;
-
- 
 }
 
-.description{
+.container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 1rem;
+  width: 80%;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.cards {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.2);
+  background-color: #ffffff;
+  border-radius: 0.5rem;
+  height: 800px;
+  overflow: hidden;
+  position:relative;
+}
+
+.description {
   padding-left: 1.3rem;
   padding-right: 1.3rem;
   font-size: 0.8rem;
   line-height: 175%;
   margin-top: 1rem;
-  
   overflow: hidden;
-  
- 
-
-  
- 
-
 }
 
 .title {
   margin-top: 1.75rem;
-  
 }
 
 .date {
   margin-bottom: 0.8rem;
 }
 
-.title, .date {
+.title,
+.date {
   margin-left: 1.3rem;
   font-size: 1.5rem;
   font-weight: bold;
 }
 
-img {
+.img-box {
+  box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
+  width: 50%;
+  display: block;
+  margin: auto;
   margin-top: 1.5rem;
-  box-shadow: 0px 3px 15px rgba(0,0,0,0.6);
 }
 
 .tags-container {
- display: flex;
- justify-content: center;
- margin-top: 1.5rem;
-
- 
-
+  display: flex;
   
+
+  position: absolute; 
+  bottom: 1.5rem;
+  margin-left: 1rem;
 }
 
 .tags {
-
   text-align: center;
   white-space: nowrap;
   background-color: #dae4e9;
@@ -111,4 +130,12 @@ img {
   padding: 0.8rem;
   font-size: small;
   margin-right: 0.5rem;
+}
+
+.footer {
+  margin: auto;
+  width: 80%;
+  color: #333;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
 }
