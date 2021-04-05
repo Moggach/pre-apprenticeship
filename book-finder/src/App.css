@@ -13,15 +13,13 @@ body {
   background-color: #e9ecef;
 }
 
-
-
 .navbar {
   color: #8a2be2;
   display: flex;
   justify-content: center;
   width: 80%;
   margin: auto;
- 
+
   padding-top: 1rem;
 }
 
@@ -77,7 +75,7 @@ Button {
   border-radius: 0.5rem;
   height: 800px;
   overflow: hidden;
-  position:relative;
+  position: relative;
 }
 
 .description {
@@ -112,11 +110,21 @@ Button {
   margin-top: 1.5rem;
 }
 
+.link-to-buy {
+  padding-left: 1.3rem;
+  margin-top: 0.8rem;
+
+}
+
+.link-to-buy a {
+  color: black;
+  text-decoration: none;
+ 
+}
+
 .tags-container {
   display: flex;
-  
-
-  position: absolute; 
+  position: absolute;
   bottom: 1.5rem;
   margin-left: 1rem;
 }

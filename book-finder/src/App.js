@@ -6,6 +6,8 @@ import Navbar from "./components/Layout/navbar.js";
 import Search from "./components/Layout/Search.js";
 import Description from "./components/Description.js";
 
+
+
 class App extends Component {
   state = {
     books: [],
@@ -16,24 +18,34 @@ class App extends Component {
       `https://www.googleapis.com/books/v1/volumes?q=${text}`
     );
     this.setState({ books: res.data.items });
+
   };
 
+ 
+
+    
   render() {
     return (
+     
       <div>
         <Navbar />
 
         <Search searchBooks={this.searchBooks} />
 
         <div className="container">
-          {this.state.books.map(
-            ({ volumeInfo: { title, description, imageLinks } }) => (
+          {this.state.books.map( book => (
               <div className="cards">
-                <img className="img-box" src={imageLinks.thumbnail}></img>
+                <img className="img-box" src={book.volumeInfo.imageLinks.thumbnail}></img>
 
-                <div className="title">{title}</div>
+                <div className="title">{book.volumeInfo.title}</div>
 
-                <Description ReadMore={description} />
+                <Description ReadMore={book.volumeInfo.description} />
+           
+
+          
+                <div className="link-to-buy"> <a href={`${book.saleInfo.buyLink}`}target="_blank">Link to Buy</a></div>
+               
+                
                 <div>
                   <div className="tags-container">
                     <div className="tags">#Lorem Impsum</div>
@@ -43,11 +55,16 @@ class App extends Component {
                 </div>
               </div>
             )
-          )}
+          )
+            }
+
         
         </div>
+      
+       
         <Footer />
       </div>
+    
     );
   }
 }
@@ -55,3 +72,7 @@ class App extends Component {
 
 
 export default App;
+
+
+
+
