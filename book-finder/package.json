@@ -21,6 +21,7 @@
     "react": "^17.0.1",
     "react-data-sort": "^1.2.1",
     "react-dom": "^17.0.1",
+    "react-lines-ellipsis": "^0.14.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "4.0.1",
     "react-show-more-text": "^1.4.6",

@@ -84,7 +84,7 @@ Button {
   font-size: 0.8rem;
   line-height: 175%;
   margin-top: 1rem;
-  overflow: hidden;
+ 
 }
 
 .title {
@@ -111,15 +111,28 @@ Button {
 }
 
 .link-to-buy {
-  padding-left: 1.3rem;
-  margin-top: 0.8rem;
+  margin-left: 1.3rem;
+  margin-top: 1.5rem;
+  
 
 }
 
 .link-to-buy a {
-  color: black;
+  color: white;
   text-decoration: none;
+  background-color: #8a2be2;
+  padding: 0.5rem;
+  border-radius: 0.3rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  cursor: pointer;
+  
  
+}
+
+a:hover {
+  background-color: white;
+  color: #8a2be2;
 }
 
 .tags-container {
