@@ -19,7 +19,6 @@ body {
   justify-content: center;
   width: 80%;
   margin: auto;
-
   padding-top: 1rem;
 }
 
@@ -159,4 +158,12 @@ a:hover {
   color: #333;
   margin-bottom: 1rem;
   margin-top: 1rem;
+}
+
+@media only screen and (max-width: 600px) {
+ .container {
+  grid-template-columns: repeat( 1, 1fr) ;
+  
+}
+
 }
