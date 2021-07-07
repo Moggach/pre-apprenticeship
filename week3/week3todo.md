@@ -10,7 +10,7 @@
 This section will keep track of my work every day on Execute Program and my Twitter activity.
 
 ### Twitter TIL or retweet
-- [ ] 7/7
+- [x] 7/7 https://twitter.com/MollyBloom1989/status/1412873132902334464
 - [ ] 8/7 
 - [ ] 9/7 
 - [ ] 10/7 
@@ -19,7 +19,7 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [ ] 13/7 
 
 ### Execute Program
-- [ ] 7/7
+- [x] 7/7 Accessor properties on classes, Static Methods
 - [ ] 8/7 
 - [ ] 9/7 
 - [ ] 10/7 
