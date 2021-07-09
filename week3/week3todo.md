@@ -13,8 +13,8 @@ This section will keep track of my work every day on Execute Program and my Twit
 
 ### Twitter TIL or retweet
 - [x] 7/7 https://twitter.com/MollyBloom1989/status/1412873132902334464
-- [x] 8/7  https://twitter.com/MollyBloom1989/status/1413235448479064064
-- [ ] /7 
+- [x] 8/7 https://twitter.com/MollyBloom1989/status/1413235448479064064
+- [x] 9/7  https://twitter.com/MollyBloom1989/status/1413507665733382148
 - [ ] /7 
 - [ ] /7 
 
@@ -22,13 +22,13 @@ This section will keep track of my work every day on Execute Program and my Twit
 ### Execute Program
 - [x] 7/7 Accessor properties on classes, Static Methods
 - [x] 8/7 For Each
-- [ ] /7 
+- [x] 9/7 Quizzes: Count, Equality, Implement Unique, Fill Dynamically, Lessons: Slice with negative arguments, Concat, Includes, New and fill
 - [ ] /7 
 - [ ] /7 
 
 
 ### Kahn Academy
-- [ ] /7
+- [x] 9/7 Computer Science > Algorithms 
 - [ ] /7 
 - [ ] /7 
 - [ ] /7 
