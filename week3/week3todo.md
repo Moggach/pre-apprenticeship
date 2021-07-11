@@ -2,19 +2,19 @@
 
 [This is my schedule for week 3](https://learn.foundersandcoders.com/course/syllabus/pre-app-3/schedule/)
 
-- [ ] Tech Spikes - read and make notes: CSS Architecture, Responsive Design, Advanced CSS
+- [x] Tech Spikes - read and make notes: CSS Architecture, Responsive Design, Advanced CSS 
 - [ ] Refactor projects gallery site
 - [ ] Array Cardio 2 
-- [ ] Flex Panels Image Gallery
-- [ ] Research next week's employer
-- [ ] Create a repo for code reading examples
+- [x] Flex Panels Image Gallery
+- [x] Research next week's employer
+- [x] Create a repo for code reading examples
 
 This section will keep track of my work every day on Execute Program and my Twitter activity.
 
 ### Twitter TIL or retweet
 - [x] 7/7 https://twitter.com/MollyBloom1989/status/1412873132902334464
 - [x] 8/7 https://twitter.com/MollyBloom1989/status/1413235448479064064
-- [x] 9/7  https://twitter.com/MollyBloom1989/status/1413507665733382148
+- [x] 9/7 https://twitter.com/MollyBloom1989/status/1413507665733382148
 - [ ] /7 
 - [ ] /7 
 
@@ -23,13 +23,13 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 7/7 Accessor properties on classes, Static Methods
 - [x] 8/7 For Each
 - [x] 9/7 Quizzes: Count, Equality, Implement Unique, Fill Dynamically, Lessons: Slice with negative arguments, Concat, Includes, New and fill
-- [ ] /7 
-- [ ] /7 
+- [x] 10/7 Quizzes: Square, Add Exclamation, Lessons: Map, Join, Index of
+- [x] 11/7 Quiz: All True, Implement Join, Lesson: Reduce, Sort
 
 
 ### Kahn Academy
-- [x] 9/7 Computer Science > Algorithms 
-- [ ] /7 
-- [ ] /7 
+- [x] 9/7 Computer Science > Algorithms > Binary Search
+- [x] 10/7 Computer Science > Algorithms > Asymptotic notation
+- [x] 11/7 Computer Science > Algorithms > Asymptotic notation > Big-θ (Big-Theta) notation
 - [ ] /7 
 - [ ] /7 
