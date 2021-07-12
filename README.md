@@ -26,6 +26,15 @@ Projects this week are
 * Javascript 30 projects: Playing with CSS Variables and JS and Array Cardio Day 1
 
 ### Week Three
+[This is my schedule for week 3](https://learn.foundersandcoders.com/course/syllabus/pre-app-3/schedule/)
+
+Projects this week are
+* Tech Spikes: CSS Architecture, Responsive Design, Advanced CSS 
+* Refactor Projects Gallery site
+* Array Cardio 2 
+* Flex Panels Image Gallery
+* Create repo for code reading examples
+
 ### Week Four
 
 
