@@ -15,8 +15,8 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 7/7 https://twitter.com/MollyBloom1989/status/1412873132902334464
 - [x] 8/7 https://twitter.com/MollyBloom1989/status/1413235448479064064
 - [x] 9/7 https://twitter.com/MollyBloom1989/status/1413507665733382148
-- [ ] /7 
-- [ ] /7 
+- [x] 13/7 https://twitter.com/MollyBloom1989/status/1415042706536075264
+- [x] 14/7 https://twitter.com/MollyBloom1989/status/1415335903657185287
 
 
 ### Execute Program
@@ -26,10 +26,11 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 10/7 Quizzes: Square, Add Exclamation, Lessons: Map, Join, Index of
 - [x] 11/7 Quiz: All True, Implement Join, Lesson: Reduce, Sort
 - [x] 12/7 Quiz: Sort by Word Length, Even Numbers, Implement Compact, Sum Squares of Odds, Lesson: Filter
+- [x] 13/7 Quiz: Implement Filter With Reduce, Lessons: Find index, Arrays are objects, Some and every
 
 ### Kahn Academy
 - [x] 9/7 Computer Science > Algorithms > Binary Search
 - [x] 10/7 Computer Science > Algorithms > Asymptotic notation
 - [x] 11/7 Computer Science > Algorithms > Asymptotic notation > Big-θ (Big-Theta) notation
 - [x] 12/7 Computer Science > Algorithms > Asymptotic notation > Functions in Asymptotic notation, Comparing Function Growth
-- [ ] /7 
+- [x] 13/7 Computer Science > Algorithms > Asymptotic notation > Big-O Notation
