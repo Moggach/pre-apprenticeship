@@ -4,8 +4,8 @@
 
 - [] Install ESLint and Prettier
 - [] Agency website project
-- [] JS 30: 14 Must Know Dev Tools Tricks
-- [] JS 30: Hold Shift to Check Multiple Checkboxes
+- [x] JS 30: 14 Must Know Dev Tools Tricks
+- [x] JS 30: Hold Shift to Check Multiple Checkboxes
 - [] Tech Spike: Checking our Code
 - [] Research next week's employers
 - [] Add to code reading repo and create challenge repo
@@ -15,7 +15,7 @@ This section will keep track of my work every day on Execute Program and my Twit
 ### Twitter TIL or retweet
 
 - [x] 15/7 https://twitter.com/MollyBloom1989/status/1415642218224918532
-- []
+- [x] 16/7 https://twitter.com/MollyBloom1989/status/1416091539458117633
 - []
 - []
 - []
