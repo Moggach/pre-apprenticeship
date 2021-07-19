@@ -18,7 +18,7 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 16/7 https://twitter.com/MollyBloom1989/status/1416091539458117633
 - [x] 17/7 https://twitter.com/MollyBloom1989/status/1416451313378988037
 - [x] 18/7 https://twitter.com/MollyBloom1989/status/1416835395623571465
-- []
+- [x] 19/7 https://twitter.com/MollyBloom1989/status/1417177918216839175
 
 ### Execute Program
 
