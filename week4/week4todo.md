@@ -3,7 +3,7 @@
 [This is my schedule for week 4](https://learn.foundersandcoders.com/course/syllabus/pre-app-5/schedule/)
 
 - [x] Install ESLint and Prettier
-- [] Agency website project
+- [x] Agency website project
 - [x] JS 30: 14 Must Know Dev Tools Tricks
 - [x] JS 30: Hold Shift to Check Multiple Checkboxes
 - [x] Tech Spike: Checking our Code
@@ -26,7 +26,7 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 15/7 Lesson: Reverse, Empty Slots, Flat and Flat Map
 - [x] 16/7 Quiz: Implement Find, Lesson: Negative Array Indexes, Reduce right
 - [x] 18/7 Quiz: Implement Reverse
-- []
+- [x] 20/7 Concurrency: Lesson: setTimeout and functions, Concurrent setTimeouts, clearTimeout
 
 ### Kahn Academy
 
@@ -34,4 +34,4 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 15/7 Algorithms > Insertion Sort and Insertion Sort Pseudocode
 - [x] 16/7 Algorithms > Challenge: Implement Swap
 - [x] 18/7 Algebra 1 > Overview and history of Algebra
-- []
+- [x] 20/7 Algebra 1 > Combining Like Terms
