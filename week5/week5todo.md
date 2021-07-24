@@ -2,13 +2,13 @@
 
 [This is my schedule for week 5](https://learn.foundersandcoders.com/course/syllabus/pre-app-6/schedule/)
 
-- [] JS30: Object and Arrays - Reference VS Copy
-- [] JS30: Sorting Band Names without articles
+- [x] JS30: Object and Arrays - Reference VS Copy
+- [x] JS30: Sorting Band Names without articles
 - [x] Finish Dom Challenge
 - [x] Tech Spike: Advanced Dom
 - [] Agency website project
 - [] Create GitHub profile ReadMe
-- [] Research next week's employers
+- [x] Research next week's employers
 - [] Add to challenges and code reading repos
 
 This section will keep track of my work every day on Execute Program and my Twitter activity.
@@ -17,6 +17,7 @@ This section will keep track of my work every day on Execute Program and my Twit
 
 - [x] 21/7 https://twitter.com/MollyBloom1989/status/1417925788322746376
 - [x] 22/7 https://twitter.com/MollyBloom1989/status/1418250988830355458
+- [x] 24/7 https://twitter.com/MollyBloom1989/status/1418965556204605450
 
 ### Execute Program
 
