@@ -6,7 +6,7 @@
 - [x] JS30: Sorting Band Names without articles
 - [x] Finish Dom Challenge
 - [x] Tech Spike: Advanced Dom
-- [/] Agency website project
+- [x] Agency website project
 - [x] Create GitHub profile ReadMe
 - [x] Research next week's employers
 - [x] Add to challenges and code reading repos
@@ -35,3 +35,4 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 23/7 Algebra 1 > Linear equations with variables on both sides, Linear equations with parentheses
 - [x] 25/7 Algebra 1 > Number of solutions to equations, Linear equations with unknown coefficients, Inequalities with variables on both sides, Inequalities with variables on both sides (with parentheses), Using inequalities to solve problems
 - [x] 26/7 Algebra 1 > Compound Inequalities, Computer Science > Asymptotic notation - practice
+- [x] 27/7 Algebra 1 > Linear equations and graphs
