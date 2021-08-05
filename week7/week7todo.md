@@ -4,7 +4,7 @@
 
 - [ ] HTML Forms workshop
 - [ ] Fetch workshop
-- [/] Tech Spikes: Debugging JavaScript, Asynchronous JavaScript, Debugging network requests
+- [x] Tech Spikes: Debugging JavaScript, Asynchronous JavaScript, Debugging network requests
 - [ ] NASA API project
 - [ ] Read slides and watch recording from Wednesday's session
 
@@ -17,5 +17,8 @@ This section will keep track of my work every day on Execute Program and my Twit
 ### Execute Program
 
 - [x] 4/8 Multiple awaits, Async/await in arrow functions, Control flow with async/await
+- [x] 5/8 Computed methods and accessors, Symbol basics, Builtin Symbols
 
 ### Kahn Academy
+
+- [x] 5/8 Algebra 1 > Radicals, Functions - Maximum and minimum points
