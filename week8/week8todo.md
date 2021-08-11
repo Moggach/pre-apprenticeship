@@ -19,4 +19,4 @@ This section will keep track of my work every day on Execute Program and my Twit
 
 ### Companion Code Challenge
 
-- [x] 11/8
+- [x] 11/8 Set up initial react app, added colour generator and page reload button
