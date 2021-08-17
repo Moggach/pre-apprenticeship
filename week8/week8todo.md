@@ -25,6 +25,7 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 13/8 Lesson: Literal types, Quizzes: Destructuring with literal objects, Add or subtract with union
 - [x] 15/8 Lesson: Conditional narrowing, Object narrowing, Quizzes: Has logged in,Generic first with narrowing
 - [x] 16/8 Lessons: Nullability, Undefined in arrays, Type intersections, Discriminated unions, Generic objec types, Quizzes: Name property, Parse nullable string, Distinguishing between animals
+- [x] 17/8 Lessons: Type soundness, Logical operator narrowing, Functions as arguments, Index signatures, Error handling with unions, Quizzes: Object type with holes, Apply function
 
 ### Companion Code Challenge
 
