@@ -1,4 +1,4 @@
-# Week 7 (11/8/21 - 18/8/21)
+# Week 8 (11/8/21 - 18/8/21)
 
 [This is my schedule for week 8](https://learn.foundersandcoders.com/course/syllabus/pre-app-9/schedule/)
 
