@@ -2,7 +2,7 @@
 
 [This is my schedule for week 9](https://learn.foundersandcoders.com/course/syllabus/pre-app-10/schedule/)
 
-- [] Apolitical take home challenge
+- [] Find My Past take home challenge
 - [] Integration testing workshop
 
 This section will keep track of my work every day on Execute Program and my Twitter activity.
@@ -13,6 +13,6 @@ This section will keep track of my work every day on Execute Program and my Twit
 
 ### Execute Program
 
-### Apolotical challenge
+### Find My Past challenge
 
 - [x] 18/8 Set up file structure, made initial commit, wrote functions to test if input is prime and output primes array
