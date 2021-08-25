@@ -3,7 +3,7 @@
 [This is my schedule for week 9](https://learn.foundersandcoders.com/course/syllabus/pre-app-10/schedule/)
 
 - [x] Find My Past take home challenge
-- [] Integration testing workshop
+- [x] Integration testing workshop
 
 This section will keep track of my work every day on Execute Program and my Twitter activity.
 
@@ -13,6 +13,7 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 19/8 https://twitter.com/MollyBloom1989/status/1428430941303840773
 - [x] 20/8 https://twitter.com/MollyBloom1989/status/1428761092617121802
 - [x] 21/8 https://twitter.com/MollyBloom1989/status/1429034030662569984
+- [x] 22/8 https://twitter.com/MollyBloom1989/status/1429845338324668425?s=20
 
 ### Execute Program
 
@@ -20,6 +21,8 @@ This section will keep track of my work every day on Execute Program and my Twit
 - [x] 20/8 Lessons: Void, Unknown, Generic function inference, Generic function types
 - [x] 21/8 Quizzes: Safe square root, Safe array access
 - [x] 22/8 Lessons: As, Never, Recursive types
+- [x] 23/8 Lessons: As is dangerous, Object values at runtime
+- [x] 24/8 Lessons: Type predicates, Type widening
 
 ### Find My Past challenge
 
