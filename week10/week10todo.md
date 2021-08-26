@@ -9,6 +9,9 @@ This section will keep track of my work every day on Execute Program and my Twit
 
 ### Twitter TIL or retweet
 
+- [x] 26/8 https://twitter.com/MollyBloom1989/status/1430968312851279875
+
 ### Execute Program
 
 - [x] 25/8 Typescript: Assertion functions, SQL: Basic tables
+- [x] 26/8 SQL: Basic column types, Selecting columns, Select where
